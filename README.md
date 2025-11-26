@@ -12,6 +12,14 @@
 | **Windows**      | ARM64                    | **1.11.5** (5234145629700096)          | [Antigravity.exe – ARM64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.11.5-5234145629700096/windows-arm64/Antigravity.exe)     |
 | **Linux**        | Universal (x86_64/aarch64)| **1.11.5** (same build expected)       | [Linux download subpage](https://antigravity.google/download/linux) (.deb, .rpm, .tar.gz available there)                |
 
+**Requirements**
+
+ - macOS:  
+   - macOS versions with Apple security update support. This is typically the current and two previous versions. Min Version 12 (Monterey), X86 is not supported
+ - Windows:  
+   - Windows 10 (64 bit)
+ - Linux:  
+   - glibc >= 2.28, glibcxx >= 3.4.25 (e.g. Ubuntu 20. Debian 10, Fedora 36, RHEL 8)
 
 ## History Version
 
