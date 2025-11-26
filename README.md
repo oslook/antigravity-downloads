@@ -12,6 +12,17 @@
 | **Windows**      | ARM64                    | **1.11.5** (5234145629700096)          | [Antigravity.exe – ARM64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.11.5-5234145629700096/windows-arm64/Antigravity.exe)     |
 | **Linux**        | Universal (x86_64/aarch64)| **1.11.5** (same build expected)       | [Linux download subpage](https://antigravity.google/download/linux) (.deb, .rpm, .tar.gz available there)                |
 
+```
+Antigravity Version: 1.11.5
+VSCode OSS Version: 1.104.0
+Commit: afdb915a7890576374cec17dccf6d91249170a86
+Date: 2025-11-20T07:11:11.677Z (6 days ago)
+Electron: 37.3.1
+Chromium: 138.0.7204.235
+Node.js: 22.18.0
+V8: 13.8.258.31-electron.0
+```
+
 **Requirements**
 
  - macOS:  
