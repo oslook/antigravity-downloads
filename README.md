@@ -10,7 +10,7 @@
 | **macOS**        | Intel (x64)              | **1.11.9** (4787439284912128)           | [Antigravity.dmg – Intel](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.11.9-4787439284912128/darwin-x64/Antigravity.dmg)         |
 | **Windows**      | x64                      | **1.11.9** (4787439284912128)          | [Antigravity.exe – x64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.11.9-4787439284912128/windows-x64/Antigravity.exe)         |
 | **Windows**      | ARM64                    | **1.11.9** (4787439284912128)          | [Antigravity.exe – ARM64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.11.9-4787439284912128/windows-arm64/Antigravity.exe)     |
-| **Linux**        | Universal (x86_64/aarch64)| **1.11.5** (same build expected)       | [Linux download subpage](https://antigravity.google/download/linux) (.deb, .rpm) [.tar.gz available here](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.11.9-4787439284912128/linux-x64/Antigravity.tar.gz)  |
+| **Linux**        | Universal (x86_64/aarch64)| **1.11.9** (4787439284912128)       | [Linux download subpage](https://antigravity.google/download/linux) (.deb, .rpm)<br>[.tar.gz available here](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.11.9-4787439284912128/linux-x64/Antigravity.tar.gz)  |
 
 ```
 Antigravity Version: 1.11.9
@@ -47,7 +47,7 @@ V8: 13.8.258.31-electron.0
 | **macOS**        | Intel (x64)              | **1.11.5** (5234145629700096)           | [Antigravity.dmg – Intel](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.11.5-5234145629700096/darwin-x64/Antigravity.dmg)         |
 | **Windows**      | x64                      | **1.11.5** (5234145629700096)          | [Antigravity.exe – x64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.11.5-5234145629700096/windows-x64/Antigravity.exe)         |
 | **Windows**      | ARM64                    | **1.11.5** (5234145629700096)          | [Antigravity.exe – ARM64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.11.5-5234145629700096/windows-arm64/Antigravity.exe)     |
-| **Linux**        | Universal (x86_64/aarch64)| **1.11.5** (same build expected)       | [Linux download subpage](https://antigravity.google/download/linux) (.deb, .rpm)\n [.tar.gz available here](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.11.5-5234145629700096/linux-x64/Antigravity.tar.gz)      |
+| **Linux**        | Universal (x86_64/aarch64)| **1.11.5** (5234145629700096)       | [Linux download subpage](https://antigravity.google/download/linux) (.deb, .rpm)<br>[.tar.gz available here](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.11.5-5234145629700096/linux-x64/Antigravity.tar.gz)      |
 
 ```
 Antigravity Version: 1.11.5
