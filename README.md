@@ -19,12 +19,13 @@
 ```
 Antigravity Version: 1.11.14
 VSCode OSS Version: 1.104.0
-Commit: b31a0ea425328717c6bd1cff12c6755fd3d63a9d
-Date: 2025-12-04T00:10:18.320Z (19 hrs ago)
+Commit: a0709bf9d9cab28e92a313859c64f1ca9b6114f9
+Date: 2025-12-05T05:51:32.596Z
 Electron: 37.3.1
 Chromium: 138.0.7204.235
 Node.js: 22.18.0
 V8: 13.8.258.31-electron.0
+Language Server CL: 840516042
 ```
 
 ### Requirements
