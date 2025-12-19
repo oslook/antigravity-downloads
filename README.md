@@ -51,10 +51,9 @@ Language Server CL: 845525006
 
 Dec 8, 2025
 
-**Google One Support**
-- Google One integration.
-- Higher, more frequently refreshed rate limits for Google AI Pro and Ultra subscribers.
-
+**Secure Mode and Security Fixes**
+- Adding the secure mode option, which enforces certain settings to prevent the agent from autonomously running targeted exploits and requires human review for all agent actions.
+- Various security fixes.
 
 | Operating System | Architecture             | Version & Build                        | Direct Download Link                                                                                                   |
 |------------------|--------------------------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------|
