@@ -1,6 +1,52 @@
 ## Google Antigravity – Current Version Overview
 
-## Latest Stable Version: 1.11.17
+## Latest Stable Version: 1.12.4
+### Full Build Number: 1.12.4-5388582906101760
+
+Dec 17, 2025
+
+
+**Gemini 3 Flash**
+- Support for Gemini 3 Flash.
+- Native audio support for the agent.
+- Performance improvements for Agent Manager and for long conversations in editor windows.
+
+
+| Operating System | Architecture             | Version & Build                        | Direct Download Link                                                                                                   |
+|------------------|--------------------------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **macOS**        | Apple Silicon (arm64)    | **1.12.4** (5388582906101760)          | [Antigravity.dmg – Apple Silicon](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.12.4-5388582906101760/darwin-arm/Antigravity.dmg) |
+| **macOS**        | Intel (x64)              | **1.12.4** (5388582906101760)           | [Antigravity.dmg – Intel](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.12.4-5388582906101760/darwin-x64/Antigravity.dmg)         |
+| **Windows**      | x64                      | **1.12.4** (5388582906101760)          | [Antigravity.exe – x64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.12.4-5388582906101760/windows-x64/Antigravity.exe)         |
+| **Windows**      | ARM64                    | **1.12.4** (5388582906101760)          | [Antigravity.exe – ARM64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.12.4-5388582906101760/windows-arm64/Antigravity.exe)     |
+| **Linux**        | Universal (x86_64/aarch64)| **1.12.4** (5388582906101760)       | [Linux download subpage](https://antigravity.google/download/linux) (.deb, .rpm)<br>[.tar.gz available here](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.12.4-5388582906101760/linux-x64/Antigravity.tar.gz)  |
+
+```
+Antigravity Version: 1.12.4
+VSCode OSS Version: 1.104.0
+Commit: da3eb231fb10e6dc27750aa465b8582265c907d9
+Date: 2025-12-17T03:17:59.454Z
+Electron: 37.3.1
+Chromium: 138.0.7204.235
+Node.js: 22.18.0
+V8: 13.8.258.31-electron.0
+Language Server CL: 845525006
+```
+
+### Requirements
+
+ - macOS:  
+   - macOS versions with Apple security update support. This is typically the current and two previous versions. Min Version 12 (Monterey), X86 is not supported
+ - Windows:  
+   - Windows 10 (64 bit)
+ - Linux:  
+   - glibc >= 2.28, glibcxx >= 3.4.25 (e.g. Ubuntu 20. Debian 10, Fedora 36, RHEL 8)
+
+## Changelog
+
+[Google Antigravity Changelog](https://antigravity.google/changelog)
+
+## History Version
+
 ### Full Build Number: 1.11.17-6639170008514560
 
 Dec 8, 2025
@@ -29,22 +75,6 @@ Node.js: 22.18.0
 V8: 13.8.258.31-electron.0
 Language Server CL: 841922742
 ```
-
-### Requirements
-
- - macOS:  
-   - macOS versions with Apple security update support. This is typically the current and two previous versions. Min Version 12 (Monterey), X86 is not supported
- - Windows:  
-   - Windows 10 (64 bit)
- - Linux:  
-   - glibc >= 2.28, glibcxx >= 3.4.25 (e.g. Ubuntu 20. Debian 10, Fedora 36, RHEL 8)
-
-## Changelog
-
-[Google Antigravity Changelog](https://antigravity.google/changelog)
-
-## History Version
-
 
 ### Full Build Number: 1.11.14-5763785964257280 
 
