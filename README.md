@@ -4,7 +4,51 @@
   <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="Google Antigravity Logo" width="100px" height="100px">
 </p>
 
-## Latest Stable Version: 1.12.4
+## Latest Stable Version: 1.13.3
+### Full Build Number: 1.13.3-4533425205018624
+
+Dec 19, 2025
+
+
+**Google Workspace Support**
+- Higher, more frequently refreshed rate limits for Google Workspace AI Ultra for Business subscribers.
+
+
+| Operating System | Architecture             | Version & Build                        | Direct Download Link                                                                                                   |
+|------------------|--------------------------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **macOS**        | Apple Silicon (arm64)    | **1.13.3** (4533425205018624)          | [Antigravity.dmg – Apple Silicon](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.13.3-4533425205018624/darwin-arm/Antigravity.dmg) |
+| **macOS**        | Intel (x64)              | **1.13.3** (4533425205018624)           | [Antigravity.dmg – Intel](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.13.3-4533425205018624/darwin-x64/Antigravity.dmg)         |
+| **Windows**      | x64                      | **1.13.3** (4533425205018624)          | [Antigravity.exe – x64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.13.3-4533425205018624/windows-x64/Antigravity.exe)         |
+| **Windows**      | ARM64                    | **1.13.3** (4533425205018624)          | [Antigravity.exe – ARM64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.13.3-4533425205018624/windows-arm64/Antigravity.exe)     |
+| **Linux**        | Universal (x86_64/aarch64)| **1.13.3** (4533425205018624)       | [Linux download subpage](https://antigravity.google/download/linux) (.deb, .rpm)<br>[.tar.gz available here](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.13.3-4533425205018624/linux-x64/Antigravity.tar.gz)  |
+
+```
+Antigravity Version: 1.13.3
+VSCode OSS Version: 1.104.0
+Commit: 94f91bc110994badc7c086033db813077a5226af
+Date: 2025-12-19T21:03:14.401Z
+Electron: 37.3.1
+Chromium: 138.0.7204.235
+Node.js: 22.18.0
+V8: 13.8.258.31-electron.0
+Language Server CL: 846830895
+```
+
+### Requirements
+
+ - macOS:  
+   - macOS versions with Apple security update support. This is typically the current and two previous versions. Min Version 12 (Monterey), X86 is not supported
+ - Windows:  
+   - Windows 10 (64 bit)
+ - Linux:  
+   - glibc >= 2.28, glibcxx >= 3.4.25 (e.g. Ubuntu 20. Debian 10, Fedora 36, RHEL 8)
+
+## Changelog
+
+[Google Antigravity Changelog](https://antigravity.google/changelog)
+
+## History Version
+
 ### Full Build Number: 1.12.4-5388582906101760
 
 Dec 17, 2025
@@ -35,21 +79,6 @@ Node.js: 22.18.0
 V8: 13.8.258.31-electron.0
 Language Server CL: 845525006
 ```
-
-### Requirements
-
- - macOS:  
-   - macOS versions with Apple security update support. This is typically the current and two previous versions. Min Version 12 (Monterey), X86 is not supported
- - Windows:  
-   - Windows 10 (64 bit)
- - Linux:  
-   - glibc >= 2.28, glibcxx >= 3.4.25 (e.g. Ubuntu 20. Debian 10, Fedora 36, RHEL 8)
-
-## Changelog
-
-[Google Antigravity Changelog](https://antigravity.google/changelog)
-
-## History Version
 
 ### Full Build Number: 1.11.17-6639170008514560
 
