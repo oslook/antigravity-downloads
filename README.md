@@ -1,4 +1,8 @@
-## Google Antigravity – Current Version Overview
+<h1 align="center">Google Antigravity – Current Version Overview</h1>
+
+<p align="center">
+  <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="Google Antigravity Logo" width="100px" height="100px">
+</p>
 
 ## Latest Stable Version: 1.12.4
 ### Full Build Number: 1.12.4-5388582906101760
