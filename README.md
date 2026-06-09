@@ -1,4 +1,4 @@
-<h1 align="center">Google Antigravity – Current Version Overview</h1>
+<h1 align="center">Google Antigravity IDE – Current Version Overview</h1>
 
 <p align="center">
   <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="Google Antigravity Logo" width="100px" height="100px">
@@ -11,7 +11,7 @@ Jun 2, 2026
 
 | Operating System | Architecture             | Version & Build                        | Direct Download Link                                                                                                   |
 |------------------|--------------------------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| **macOS**        | Apple Silicon (arm64)    | **2.0.4** (6381998290370560)          | [Antigravity.dmg – Apple Silicon](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.4-6381998290370560/darwin-arm/Antigravity.dmg) |
+| **macOS**        | Apple Silicon (arm64)    | **2.0.4** (6381998290370560)          | [Antigravity.dmg – Apple Silicon](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.4-6381998290370560/darwin-arm/Antigravity%20IDE.dmg) |
 | **macOS**        | Intel (x64)              | **2.0.4** (6381998290370560)           | [Antigravity.dmg – Intel](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.4-6381998290370560/darwin-x64/Antigravity%20IDE.dmg)         |
 | **Windows**      | x64                      | **2.0.4** (6381998290370560)          | [Antigravity.exe – x64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.4-6381998290370560/windows-x64/Antigravity%20IDE.exe)         |
 | **Windows**      | ARM64                    | **2.0.4** (6381998290370560)          | [Antigravity.exe – ARM64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.4-6381998290370560/windows-arm64/Antigravity%20IDE.exe)     |
