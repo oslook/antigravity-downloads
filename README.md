@@ -4,21 +4,19 @@
   <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="Google Antigravity Logo" width="100px" height="100px">
 </p>
 
-2.1.4-6481382726303744
-
 ## Latest Stable Version: 2.1.1
-### Full Build Number: 2.1.1-6381998290370560
+### Full Build Number: 2.1.1-6123990880747520
 
 Jun 17, 2026
 
 | Operating System | Architecture             | Version & Build                        | Direct Download Link                                                                                                   |
 |------------------|--------------------------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| **macOS**        | Apple Silicon (arm64)    | **2.1.1** (6381998290370560)          | [Antigravity.dmg – Apple Silicon](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.4-6381998290370560/darwin-arm/Antigravity%20IDE.dmg) |
-| **macOS**        | Intel (x64)              | **2.1.1** (6381998290370560)           | [Antigravity.dmg – Intel](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.4-6381998290370560/darwin-x64/Antigravity%20IDE.dmg)         |
-| **Windows**      | x64                      | **2.1.1** (6381998290370560)          | [Antigravity.exe – x64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.4-6381998290370560/windows-x64/Antigravity%20IDE.exe)         |
-| **Windows**      | ARM64                    | **2.1.1** (6381998290370560)          | [Antigravity.exe – ARM64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.4-6381998290370560/windows-arm64/Antigravity%20IDE.exe)     |
-| **Linux**        | Universal (x86_64/aarch64)| **2.1.1** (6381998290370560)       | [Linux download subpage](https://antigravity.google/download/linux) (.deb, .rpm)<br>[.tar.gz available here](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.4-6381998290370560/linux-x64/Antigravity%20IDE.tar.gz)  |
-| **Linux**        | Universal (Arm64)| **2.1.1** (6381998290370560)       | [Linux download subpage](https://antigravity.google/download/linux) (.deb, .rpm)<br>[.tar.gz available here](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.4-6381998290370560/linux-arm/Antigravity%20IDE.tar.gz)  |
+| **macOS**        | Apple Silicon (arm64)    | **2.1.1** (6123990880747520)          | [Antigravity.dmg – Apple Silicon](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.1.1-6123990880747520/darwin-arm/Antigravity%20IDE.dmg) |
+| **macOS**        | Intel (x64)              | **2.1.1** (6123990880747520)           | [Antigravity.dmg – Intel](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.1.1-6123990880747520darwin-x64/Antigravity%20IDE.dmg)         |
+| **Windows**      | x64                      | **2.1.1** (6123990880747520)          | [Antigravity.exe – x64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.1.1-6123990880747520/windows-x64/Antigravity%20IDE.exe)         |
+| **Windows**      | ARM64                    | **2.1.1** (6123990880747520)          | [Antigravity.exe – ARM64](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.1.1-6123990880747520/windows-arm64/Antigravity%20IDE.exe)     |
+| **Linux**        | Universal (x86_64/aarch64)| **2.1.1** (6123990880747520)       | [Linux download subpage](https://antigravity.google/download/linux) (.deb, .rpm)<br>[.tar.gz available here](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.1.1-6123990880747520/linux-x64/Antigravity%20IDE.tar.gz)  |
+| **Linux**        | Universal (Arm64)| **2.1.1** (6123990880747520)       | [Linux download subpage](https://antigravity.google/download/linux) (.deb, .rpm)<br>[.tar.gz available here](https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.1.1-6123990880747520/linux-arm/Antigravity%20IDE.tar.gz)  |
 
 ```
 Antigravity IDE Version: 2.1.1
@@ -41,9 +39,19 @@ Language Server CL: 933924006
  - Linux:  
    - glibc >= 2.28, glibcxx >= 3.4.25 (e.g. Ubuntu 20. Debian 10, Fedora 36, RHEL 8)
 
+### Antigravity 2.0
+
+- 2.1.4-6481382726303744
+- 2.0.11-6560309696135168
+- 2.0.10-5119448496078848
+- 2.0.6-5413878570549248
+- 2.0.1-6566078776737792
+- 2.0.0-6324554176528384  
+
 ## Changelog
 
 [Google Antigravity Changelog](https://antigravity.google/changelog)
+[Google Antigravity Releases](https://antigravity.google/releases)
 
 ## History Version
 
