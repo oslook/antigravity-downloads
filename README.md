@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="Google Antigravity Logo" width="100px" height="100px">
 </p>
+
 2.1.4-6481382726303744
+
 ## Latest Stable Version: 2.1.1
 ### Full Build Number: 2.1.1-6381998290370560
 
